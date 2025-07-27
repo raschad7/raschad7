@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About&nbsp;Me
 - 🎓 **Computer Engineer — Fresh Graduate**  
 - 💡 **Passions:** IoT • Edge‑AI • Real‑time CV • Embedded ML • Creative Websites
-- 🌱 **Currently Exploring:** TinyML ✨ & Cloud‑Native Deployments ☁️  
+- 🌱 **Currently Exploring:** TinyML ✨ & AI Agents ☁️  
 - ⚡ **Fun fact:** I automate everything I can and share the journey!
 
 ---
