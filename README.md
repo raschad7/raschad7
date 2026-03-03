@@ -1,69 +1,45 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7EDE9&center=true&vCenter=true&width=850&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Rashad+Karaki;Computer+Engineer+%7C+IoT+%26+AI+Enthusiast;Always+learning+new+tech!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7EDE9&center=true&vCenter=true&width=850&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Rashad+Karaki;AI+%26+Computer+Engineer;Specializing+in+LLMs,+RAG+%26+AI+Agents;Building+Production-Ready+AI+Solutions!" alt="Typing SVG">
 </p>
 
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About&nbsp;Me
-- 🎓 **Computer Engineer — Fresh Graduate**  
-- 💡 **Passions:** IoT • Creative Websites • Real‑time CV • Embedded ML 
-- 🌱 **Currently Exploring:** TinyML ✨ & AI Agents   
-- ⚡ **Fun fact:** I automate everything I can and share the journey!
+- 🎓 **Computer Engineer — Fresh Graduate** - 💡 **Passions:** Large Language Models (LLMs) • AI Agents • RAG Systems • Computer Vision 
+- 🌱 **Currently Exploring:** Advanced Prompt Engineering, Scalable AI Pipelines & Multi-Agent Systems
+- ⚡ **Fun fact:** I love bridging the gap between theoretical AI models and real-world production APIs!
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages&nbsp;&amp;&nbsp;AI Stack
 <p align="center">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
-  <br>
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <br>
-  <!-- Databases & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" alt="Raspberry Pi"/>
-  <br>
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postman.svg" width="40" alt="Postman"/>
-  <img src="https://avatars.githubusercontent.com/u/73538700?s=200&v=4" width="40" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone / Vector DB"/>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,git,github,postgres,linux,react,js" alt="Tech Stack Icons" />
+  </a>
 </p>
 
 ---
 
-### 🚀 AI&nbsp;&nbsp;<span>&nbsp;|&nbsp;</span>&nbsp;&nbsp;Computer&nbsp;Vision&nbsp;&amp;&nbsp;ML Playground
-<p align="center">
-  <img src="https://ultralytics.com/images/yo.gif" width="320" alt="YOLOv5 Real‑Time Detection GIF"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tinyMLx/brand/main/gifs/tinyml.gif" width="320" alt="Edge AI / TinyML"/>
-</p>
+### 🚀 AI&nbsp;&nbsp;<span>&nbsp;|&nbsp;</span>&nbsp;&nbsp;Generative AI &amp; Vision Playground
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,keras,mysql,raspberrypi,linux" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-data-visualization.gif" width="320" alt="Data & LLM Flow GIF" style="border-radius: 10px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://ultralytics.com/images/yo.gif" width="320" alt="YOLOv5 Real‑Time Detection GIF" style="border-radius: 10px;"/>
 </p>
 
-> **Edge‑ready models, real‑time analytics, and hardware‑accelerated deployments.**  
-> I **curate datasets**, **distill architectures**, and **squeeze milliseconds** out of Raspberry Pi & micro‑controllers.
+> **End-to-End AI Pipelines, Context-Aware Assistants, and Intelligent Search Agents.** > I specialize in building **RAG architectures**, optimizing **Vector Embeddings**, designing **FastAPI backends**, and deploying models for real-world business digital transformation.
 
 ---
 
-### 📫 Reach Me
+### 📫 Reach&nbsp;Me
 <p align="center">
   <a href="mailto:rashad.rh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rashad-karaki-20415320b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
