@@ -5,7 +5,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About&nbsp;Me
-- 🎓 **Computer Engineer — Fresh Graduate** - 💡 **Passions:** Large Language Models (LLMs) • AI Agents • RAG Systems • Computer Vision 
+- 🎓 **Computer Engineer** - 💡 **Passions:** Large Language Models (LLMs) • AI Agents • RAG Systems • Computer Vision 
 - 🌱 **Currently Exploring:** Advanced Prompt Engineering, Scalable AI Pipelines & Multi-Agent Systems
 - ⚡ **Fun fact:** I love bridging the gap between theoretical AI models and real-world production APIs!
 
